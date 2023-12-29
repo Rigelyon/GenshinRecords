@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Worldbuilding/Regions/Teyvat.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!!QUEST.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!!QUEST.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!!QUEST.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!!QUEST.md"
+                "file": "README.md"
               }
             }
           },
@@ -214,11 +214,11 @@
   },
   "active": "3870bd39946101a7",
   "lastOpenFiles": [
-    "README.md",
     "!!QUEST.md",
+    "README.md",
+    "Worldbuilding/Regions/Teyvat.md",
     "!!UNSORTED LORE.md",
     "Worldbuilding/Regions/README.md",
-    "Worldbuilding/Regions/Teyvat.md",
     "GenshinRecords/LICENSE",
     "GenshinRecords",
     "LICENSE",
