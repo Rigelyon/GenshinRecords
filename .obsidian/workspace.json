@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "59e50f9d725b41a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e7b3ceda15dd4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8e33297b00d7c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Regions/Teyvat.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2dffcb7e5b3067ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Groups and Organizations/Fontaine/Narzissenkreuz Institute.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "87e49c672195b3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Regions/Fontaine.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3a726e7d2548c747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Artifact/Nymph's Dream.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3870bd39946101a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Regions/Fontaine.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afee1dfd728184ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7164d6ab01dc1802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4e480ce0d0e0a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8196aab3fc1290ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbe29dceef8e5c40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "11f27eebf0f552bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "35038819dcd09c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a22b7cd4f03bd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Worldbuilding/Regions/Teyvat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3431555ec8f095e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Worldbuilding/Regions/Teyvat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "748f3641d4539e67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b47738dacf0eb075",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worldbuilding/Regions/Teyvat.md"
+              }
+            }
+          },
+          {
+            "id": "f9c8b3adec589908",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ed20e34eaa3cdbb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad4e480ce0d0e0a3",
+  "lastOpenFiles": [
+    "GenshinRecords/LICENSE",
+    "GenshinRecords",
+    "LICENSE",
+    "Worldbuilding/Regions/Fontaine.md",
+    "!!QUEST.md",
+    "Obsidian/LICENSE",
+    "Obsidian",
+    "Worldbuilding/Regions/Teyvat.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/Narzissenkreuz Institute.md",
+    "Worldbuilding/Regions/Sumeru.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/Fontaine Research Institute.md",
+    "Worldbuilding/Artifact/Nymph's Dream.md",
+    "Worldbuilding/Artifact",
+    "Worldbuilding/Miscellaneous/Realms.md",
+    "!!UNSORTED LORE.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/Narzissenkreuz Ordo.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Worldbuilding/Miscellaneous",
+    "Worldbuilding/Groups and Organizations/Fontaine/House of the Hearth.md",
+    "く Attachments/Pasted image 20230927175216.png",
+    "く Attachments/Pasted image 20230927174235.png",
+    "Worldbuilding/Groups and Organizations/Fontaine/Maison Gardiennage.md",
+    "Worldbuilding/Locations",
+    "Worldbuilding/Events/Cataclysm.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/The Steambird.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/Spina di Rosula.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/Institute of Natural Philosophy.md",
+    "Worldbuilding/Regions/Mondstadt.md",
+    "く Attachments/The_Steambird.png",
+    "く Attachments/Spina_di_Rosula.png",
+    "く Attachments/Fontaine_Research_Institute.png",
+    "Worldbuilding/Groups and Organization/Fontaine/Narzissenkreuz Ordo 1.md",
+    "く Attachments/Institute_of_Natural_Philosophy.png",
+    "Worldbuilding/Events/💥 Events.md",
+    "Worldbuilding/Regions/Inazuma.md",
+    "Worldbuilding/Regions/Liyue.md",
+    "Worldbuilding/Books",
+    "Worldbuilding/Groups and Organizations/Abyss",
+    "Worldbuilding/Regions/Snezhnaya.md",
+    "Home.md",
+    "Worldbuilding/Region/🗺️ Region.md",
+    "🌏 Worldbuilding/Untitled",
+    "く Attachments/Emblem_Fontaine.png",
+    "く Attachments/Element_Hydro.png",
+    "く Attachments/Element_Electro.png",
+    "く Attachments/Element_Cryo.png",
+    "!Dashboard.canvas"
+  ]
+}

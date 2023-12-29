@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "textFontFamily": "Segoe UI",
+  "enabledCssSnippets": [
+    "transclusion-headerless",
+    "transclusion-tweakss"
+  ]
+}
