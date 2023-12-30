@@ -8,67 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f8e33297b00d7c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Regions/Teyvat.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2dffcb7e5b3067ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Groups and Organizations/Fontaine/Narzissenkreuz Institute.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "87e49c672195b3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Regions/Fontaine.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a726e7d2548c747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Artifact/Nymph's Dream.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3870bd39946101a7",
+            "id": "1e0d1960f0bbb226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "b8f842056e46eabc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +69,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           }
@@ -212,21 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3870bd39946101a7",
+  "active": "1e0d1960f0bbb226",
   "lastOpenFiles": [
-    "!!QUEST.md",
-    "README.md",
+    "Worldbuilding/Regions/Fontaine.md",
     "Worldbuilding/Regions/Teyvat.md",
+    "README.md",
+    "く Attachments/Teyvat Map v4.4 .png",
+    "Worldbuilding/Regions/Sumeru.md",
+    "Worldbuilding/Regions/Snezhnaya.md",
+    "Worldbuilding/Regions/Natlan.md",
+    "Worldbuilding/Regions/Mondstadt.md",
+    "Worldbuilding/Regions/Liyue.md",
+    "Worldbuilding/Regions/Khaenri'ah.md",
+    "Worldbuilding/Regions/Inazuma.md",
+    "Worldbuilding/Groups and Organizations/Fontaine/Narzissenkreuz Institute.md",
+    "く Attachments/Erinnyes_Forest.png",
+    "く Attachments/Morte_Region.png",
+    "く Attachments/Liffey_Region.png",
+    "!!QUEST.md",
     "!!UNSORTED LORE.md",
     "Worldbuilding/Regions/README.md",
     "GenshinRecords/LICENSE",
     "GenshinRecords",
     "LICENSE",
-    "Worldbuilding/Regions/Fontaine.md",
     "Obsidian/LICENSE",
     "Obsidian",
-    "Worldbuilding/Groups and Organizations/Fontaine/Narzissenkreuz Institute.md",
-    "Worldbuilding/Regions/Sumeru.md",
     "Worldbuilding/Groups and Organizations/Fontaine/Fontaine Research Institute.md",
     "Worldbuilding/Artifact/Nymph's Dream.md",
     "Worldbuilding/Artifact",
@@ -244,24 +213,13 @@
     "Worldbuilding/Groups and Organizations/Fontaine/The Steambird.md",
     "Worldbuilding/Groups and Organizations/Fontaine/Spina di Rosula.md",
     "Worldbuilding/Groups and Organizations/Fontaine/Institute of Natural Philosophy.md",
-    "Worldbuilding/Regions/Mondstadt.md",
     "く Attachments/The_Steambird.png",
     "く Attachments/Spina_di_Rosula.png",
     "く Attachments/Fontaine_Research_Institute.png",
     "Worldbuilding/Groups and Organization/Fontaine/Narzissenkreuz Ordo 1.md",
     "く Attachments/Institute_of_Natural_Philosophy.png",
-    "Worldbuilding/Events/💥 Events.md",
-    "Worldbuilding/Regions/Inazuma.md",
-    "Worldbuilding/Regions/Liyue.md",
     "Worldbuilding/Books",
     "Worldbuilding/Groups and Organizations/Abyss",
-    "Worldbuilding/Regions/Snezhnaya.md",
-    "Home.md",
-    "Worldbuilding/Region/🗺️ Region.md",
-    "く Attachments/Emblem_Fontaine.png",
-    "く Attachments/Element_Hydro.png",
-    "く Attachments/Element_Electro.png",
-    "く Attachments/Element_Cryo.png",
     "!Dashboard.canvas"
   ]
 }

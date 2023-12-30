@@ -7,6 +7,7 @@ sticker: emoji//1f30f
 # Teyvat
 
 ---
+## Pendahuluan
 
 >[!quote]
 > You have arrived in Teyvat — a fantasy world where the seven [[Element|elements]] flow and converge. <br>
@@ -59,3 +60,4 @@ Seluruh dari ketujuh wilayah utama ini yang disebut sebagai benua Teyvat. Benua 
 | [[Remuria]]                     |           |
 
 ## Catatan & Referensi
+---

@@ -9,5 +9,9 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "foldHeading": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "showIndentGuide": true
 }
