@@ -1,37 +1,35 @@
 ---
 banner_y: 0.292
-sticker: emoji//1f4a7
-color: "#2d98da"
 banner: "![[Fontaine Region.png]]"
+color: "#3867d6"
 ---
 # Fontaine
-
 ---
 
-## Pendahuluan
+## Ikhtisar
 
-|                     Emblem                     |                                Simbol Elemen                                 |
-|:----------------------------------------------:|:----------------------------------------------------------------------------:|
-| ![[Emblem_Fontaine.png\|120]]<br>**Fontaine** | ![[Element_Hydro.png\|120]]<br>**<span style="color:#80c0ff">Hydro</span>** |
-|                      ---                       |                                     ---                                      |
-|                   **Archon**                   |                                 [[Focalors]]                                 |
-|                 **Idealisme**                  |                                   Justice                                    |
-|           **Badan<br>Pemerintahan**           |                            [[Maison Gardiennage]]                            |
+|                    Emblem                     |                                        Simbol Elemen                                         |
+|:---------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+| ![[Emblem_Fontaine.png\|120]]<br>**Fontaine** | [![[Element_Hydro.png\|120]]](Element#Hydro)<br>**<span style="color:#80c0ff">Hydro</span>** |
+|                      ---                      |                                             ---                                              |
+|           **[[The Seven\|Archon]]**           |                                     [[Furina\|Focalors]]                                     |
+|                 **Idealisme**                 |                                           Justice                                            |
+|                **Kota Utama**                 |                                    [[Court of Fontaine]]                                     |
+|           **Badan<br>Pemerintahan**           |                                     [[Palais Mermonia]]                                      |
 
 ---
-
 > [!quote]
-> A terrestrial sea in the center of Teyvat.  
+> A terrestrial sea in the center of [[Teyvat]].  
 Following the direction of pure currents, crossing wilderness, the depths of the forests and vastness of the sea of sand, arriving at the origin of all the waters of the continent. At the top of the waterfall, in the depths of the capital atop the terrestrial sea... a story that has never been heard, a legend that has been forgotten, like a lost kingdom sunken beneath the waves, yearning for a bard to sing its drowned songs.<br>
 \- [Website Official Genshin Impact](https://genshin.hoyoverse.com/en/map)
 
-Fontaine adalah salah satu dari tujuh negara utama di [[Teyvat]]. Fontaine adalah negara dengan asosiasi elemen [[Hydro]] dan memuja Archon Hydro yang bernama [[Focalors|Furina]]. Archon Hydro memiliki idealisme keadilan sehingga negara ini berfokus pada segala hal tentang keadilan dengan mengedepankan hukumnya.  
+Fontaine adalah salah satu dari tujuh negara utama di [[Teyvat]]. Fontaine adalah negara dengan asosiasi elemen [[Element#Hydro\|Hydro]] dan memuja Archon Hydro yang bernama [[Furina]]. Archon Hydro memiliki idealisme keadilan sehingga negara ini berfokus pada segala hal tentang keadilan dengan mengedepankan hukumnya.  
 
 ![[Fontaine.png]]
 
 ## Deskripsi
 > [!quote]
-> A story that has never been heard, a legend that has been forgotten, like a lost kingdom sunken beneath the waves, yearning for a bard to sing its drowned songs.<br> Following the direction of pure currents, crossing wilderness, the depths of the forests and vastness of the sea of sand, arriving at the origin of all the waters of the continent. <br>At the top of the waterfall, in the depths of the capital atop the terrestrial sea, the curtain softly rises on the start of the adventure's next chapter.<br>
+> A story that has never been heard, a legend that has been forgotten, like a lost kingdom sunken beneath the waves, yearning for a bard to sing its drowned songs.<br> Following the direction of pure currents, crossing wilderness, the depths of the forests and vastness of the sea of sand, arriving at the origin of all the waters of the continent.<br>At the top of the waterfall, in the depths of the capital atop the terrestrial sea, the curtain softly rises on the start of the adventure's next chapter.<br>
 > \- [Preview Versi 4.0](https://act.hoyoverse.com/ys/event/e20230805preview/index.html)
 
 Keseluruhan dari dataran Fontaine berada pada elevasi yang tinggi, membuatnya berada pada ketinggian di atas rata-rata negara lain. Pusat kotanya bukan di pegunungan, melainkan berada di tengah danau di tanah yang datar. Batas dari Fontaine ini merupakan tebing yang tinggi. Air dari danau yang mengalir menuju lautan melewati tebing itu membentuk sebuah air terjun raksasa, yang menjadikannya sebagai daya tarik dari Fontaine. Di sekitarnya juga terdapat beberapa gunung yang tinggi berbentuk kerucut tajam.<br>
@@ -58,6 +56,7 @@ Fontaine memiliki bentuk pemerintahan yang terfokus pada sistem yudikatif. Dikar
 | [[Spina di Rosula]]                                          | ![[Spina di Rosula#^053b23]]                 |
 | [[The Steambird]]                                            | ![[The Steambird#^044824]]                   |
 | [[House of the Hearth]]                                      | ![[House of the Hearth#^15b346]]             |
+| [[Adventurer Guild]]                                         |                                              |
 
 #### Ras dan Makhluk Lain
 | Nama         | Deskripsi                                                                                                           |
@@ -65,8 +64,6 @@ Fontaine memiliki bentuk pemerintahan yang terfokus pada sistem yudikatif. Dikar
 | [[Melusine]] | Melusine adalah ras humanoid seperti hewan dan bertubuh pendek yang terlahir dari darah [[Elynas]].                 |
 | [[Lochfolk]] | Lochfolk atau yang biasa disebut Oceanids adalah makhluk yang berasal dari elemen Hydro murni yang ada di Fontaine. |
 
-## Sejarah
-#ComingSoon
 ## Area
 #### Area Utama
 Saat ini terdapat 7 area utama di Fontaine:
@@ -138,6 +135,10 @@ Saat ini terdapat 7 area utama di Fontaine:
 | [[East Slopes of Mont Automnequi]] |            |
 | [[Fort Charybdis Ruins]]           |            |
 | [[Tower of Ipsissimus]]            |            |
+
+## Sejarah
+#ComingSoon
+
 ## Catatan & Referensi
 
 [^1]: Hoyolab: [The Steambird Special Edition I: The Terrestrial Sea, Origin of All Waters](https://www.hoyolab.com/article/20735060)

@@ -1,5 +1,5 @@
 # Genshin Records
-This project serves as a personal note-taking repository dedicated to compiling the lore and information found within the Genshin Impact game.
+This project serves as a personal note-taking repository dedicated to compiling the lore and information found within the [Genshin Impact](https://genshin.hoyoverse.com/id/) game.
 
 ## Disclaimer
 Please be aware that the content within this vault may include subjective opinions or arguments related to in-game lore. It's essential to approach the information presented here with the understanding that not all details should be treated as absolute facts from Genshin Impact. I recommend double-checking information in the game to ensure accuracy.
@@ -45,7 +45,7 @@ Region coverage:
 
 | Name       | Percentage                                                    |
 | ---------- | ------------------------------------------------------------- |
-| Mondstadt  | ![Progress](https://progress-bar.dev/0/?scale=100&width=300)  |
+| Mondstadt  | ![Progress](https://progress-bar.dev/4/?scale=100&width=300)  |
 | Liyue      | ![Progress](https://progress-bar.dev/0/?scale=100&width=300)  |
 | Inazuma    | ![Progress](https://progress-bar.dev/0/?scale=100&width=300)  |
 | Sumeru     | ![Progress](https://progress-bar.dev/0/?scale=100&width=300)  |
@@ -55,4 +55,4 @@ Region coverage:
 | Khaenri'ah | ![Progress](https://progress-bar.dev/0/?scale=100&width=300)  |
 
 ## Contribution
-Feel free to contribute to this repository. I mostly use [Genshin Impact Wiki Fandom](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) as a reference as well as the formatting. Clone this repo by using a plugin called Obsidian Git into your Obsidian.md. The tutorial for how to install the plugin can be found [here](https://publish.obsidian.md/git-doc/Start+here)
+Feel free to contribute to this repository. I mostly use [Genshin Impact Wiki Fandom](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) as a reference as well as the formatting and assets. Clone this repo by using a plugin called Obsidian Git into your Obsidian.md. The tutorial for how to install the plugin can be found [here](https://publish.obsidian.md/git-doc/Start+here)

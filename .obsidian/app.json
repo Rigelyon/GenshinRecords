@@ -5,13 +5,23 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "く Attachments",
+  "attachmentFolderPath": "Attachments",
   "showInlineTitle": false,
   "promptDelete": false,
   "foldHeading": true,
   "showLineNumber": false,
   "readableLineLength": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "foldIndent": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "userIgnoreFilters": [
+    "Attachments/"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

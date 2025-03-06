@@ -1,13 +1,15 @@
 [
   "oz-clear-unused-images",
-  "table-editor-obsidian",
   "obsidian-discordrpc",
-  "colored-text",
   "editing-toolbar",
   "better-fn",
   "obsidian-tidy-footnotes",
   "obsidian-footnotes",
   "obsidian-git",
-  "obsidian-banners",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "sheets",
+  "obsidian-editor-shortcuts",
+  "obsidian-banners"
 ]

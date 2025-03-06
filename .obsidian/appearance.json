@@ -9,6 +9,7 @@
   "textFontFamily": "Segoe UI",
   "enabledCssSnippets": [
     "transclusion-headerless",
-    "transclusion-tweakss"
+    "transclusion-tweakss",
+    "properties"
   ]
 }

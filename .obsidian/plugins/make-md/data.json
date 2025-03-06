@@ -1,4 +1,5 @@
 {
+  "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
   "filePreviewOnHover": false,
   "flowMenuEnabled": true,
@@ -8,21 +9,21 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
+  "spacesMDBInHidden": true,
   "inlineStylerColors": false,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
+  "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
-  "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
-  "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -30,50 +31,23 @@
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
-  "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {
-    "Genshin Records": [],
-    "spacae": [
-      "🌏 Worldbuilding/💥 Events"
-    ],
-    "Dashboard": [
-      "🌏 Worldbuilding",
-      "🌏 Worldbuilding/💥 Events",
-      "🌏 Worldbuilding",
-      "🌏 Worldbuilding/🗺️ Region",
-      "🌏 Worldbuilding/🗺️ Region",
-      "Worldbuilding",
-      "Worldbuilding/Region",
-      "Worldbuilding/Groups and Organization",
-      "Worldbuilding/Groups and Organization/Fontaine"
-    ]
-  },
   "expandedSpaces": [
-    "/",
-    null,
-    "Genshin Records",
-    "Dashboard",
-    "Dashboarda",
-    null
+    "//Worldbuilding",
+    "//Worldbuilding/Worldbuilding/Regions"
   ],
   "expandFolderOnClick": true,
-  "openFolders": [],
-  "fileIcons": [],
-  "cachedSpaces": [
-    "Dashboard"
-  ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
-  "tagContextFolder": "Context",
+  "folderFrameFile": "frames",
+  "spacesFolder": "Spaces",
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
   "hiddenExtensions": [
     ".mdb"
   ],
@@ -85,18 +59,67 @@
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
-  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
-  "spacesSyncTimeoutSeconds": 10,
-  "spacesAutoBackup": true,
-  "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695386476929,
+  "waypoints": [
+    "Spaces/Home",
+    "/",
+    "spaces://$tags"
+  ],
   "spacesUseAlias": false,
-  "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
   "fmKeyColor": "color",
   "fmKeySticker": "sticker",
+  "fmKeyContexts": "_contexts",
+  "fmKeySort": "_sort",
+  "fmKeyFilter": "_filters",
+  "fmKeyLinks": "_links",
   "openSpacesOnLaunch": true,
   "indexSVG": false,
-  "readableLineWidth": true
+  "quickFrames": [],
+  "readableLineWidth": true,
+  "autoAddContextsToSubtags": true,
+  "autoMigration08": false,
+  "releaseNotesPrompt": 0.815,
+  "enableDefaultSpaces": true,
+  "enableTagSpaces": true,
+  "enableHomeSpace": true,
+  "showSpacePinIcon": true,
+  "minimalFix": false,
+  "experimental": false,
+  "systemName": "Vault",
+  "spacesCompactMode": false,
+  "collapsedTags": [],
+  "folderNoteDefaultView": true,
+  "expandedFolders": {
+    "Genshin Records": [],
+    "spacae": [
+      "🌏 Worldbuilding/💥 Events"
+    ],
+    "Dashboard": [
+      "🌏 Worldbuilding",
+      "🌏 Worldbuilding/💥 Events",
+      "🌏 Worldbuilding",
+      "🌏 Worldbuilding/🗺️ Region",
+      "🌏 Worldbuilding/🗺️ Region",
+      "Worldbuilding/Region",
+      "Worldbuilding/Groups and Organization",
+      "Worldbuilding/Groups and Organization/Fontaine",
+      "Worldbuilding",
+      "Worldbuilding/Regions",
+      "Worldbuilding/Events"
+    ]
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "cachedSpaces": [
+    "Dashboard"
+  ],
+  "tagContextFolder": "Context",
+  "lineNumbers": false,
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1704260968978,
+  "precreateVaultSpace": true
 }
