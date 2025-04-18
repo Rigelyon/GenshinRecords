@@ -10,7 +10,7 @@
   "promptDelete": false,
   "foldHeading": true,
   "showLineNumber": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": true,
   "foldIndent": true,
   "showIndentGuide": true,
