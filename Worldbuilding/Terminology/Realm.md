@@ -1,25 +1,29 @@
 # Realm
 ---
+## Deskripsi Singkat
+Realm adalah sebutan untuk alam/dunia yang berada di Teyvat. Terdapat 3 realm utama yang masing-masingnya memiliki sifat dan karakteristik yang berbeda. Realm itu adalah [[Realm#Light Realm|Light Realm]], [[Realm#Human Realm|Human Realm]], dan [[Realm#Void Realm|Void Realm]]. Selain realm utama, terdapat juga realm lain seperti [[Realm#Realm of Consciousness|Realm of Consciousness]], [[Realm#Dream Realm|Dream Realm]], [[Realm#Sub-space Creation|Sub-space Creation]], dan lain-lain.<br>
 
-## Pendahuluan
-**Realm** atau dalam Bahasa Indonesia disebut dunia/alam adalah suatu istilah yang menjelaskan tentang area, alam atau dunia. Terkadang penyebutan realm merujuk pada dunia yang berada di dimensi yang berbeda atau alam dengan suasana yang berbeda.<br>
-
-Realm yang ada di [[Teyvat]] dibedakan menjadi 3. Yaitu [[Realm#Light Realm|Light Realm]], [[Realm#Human Realm|Human Realm]], dan [[Realm#Void Realm|Void Realm]]. Setiap realm itu memiliki perbedaannya sendiri, terutama pada energi yang mengalir di dalamnya.  Light Realm mengalir energi [[Element|elemental]] di dalamnya, Human Realm mengalir energi dari [[Leyline]], sedangkan Void Realm mengalir energi [[Abyss]].[^1]<br>
-
+---
 ## Deskripsi
-Pada masa awal, realm di Teyvat hanya ada 2, yaitu Light Realm dan Void Realm. Kedua realm itu berada di posisi yang saling berlawanan. Kemudian datanglah [[Primordial One]] dan terciptalah Human Realm. Primordial One menciptakan Human Realm dengan cara menduduki Light Realm.[^2]<br> Dibandingkan jika menganggap realm berada pada tempat yang berbeda, akan lebih sesuai jika menganggapnya bisa berada pada lokasi yang sama secara bersamaan. Karena, pada dasarnya, Human Realm adalah sebagian dari Light Realm yang sudah diubah oleh Primordial One agar bisa ditempati oleh manusia. <br>
+- **Realm** atau dalam Bahasa Indonesia disebut dunia/alam adalah suatu istilah yang menjelaskan tentang area, alam atau dunia. Terkadang penyebutan realm merujuk pada dunia yang berada di dimensi yang berbeda atau alam dengan suasana yang berbeda.<br>
+- Realm yang ada di [[Teyvat]] dibedakan menjadi 3. Yaitu [[Realm#Light Realm|Light Realm]], [[Realm#Human Realm|Human Realm]], dan [[Realm#Void Realm|Void Realm]]. <br>
+- Setiap realm itu memiliki perbedaannya sendiri, terutama pada energi yang mengalir di dalamnya.  Light Realm mengalir energi [[Element|elemental]] di dalamnya, Human Realm mengalir energi dari [[Leyline]], sedangkan Void Realm mengalir energi [[Abyss]].[^1]<br>
+- Pada masa awal, realm di Teyvat hanya ada 2, yaitu Light Realm dan Void Realm. Kedua realm itu berada di posisi yang saling berlawanan. Kemudian datanglah [[Primordial One]] dan terciptalah Human Realm. Primordial One menciptakan Human Realm dengan cara menduduki Light Realm.[^2]<br> 
+- Dibandingkan jika menganggap realm berada pada tempat yang berbeda, akan lebih sesuai jika menganggapnya bisa berada pada lokasi yang sama secara bersamaan. Karena, pada dasarnya, Human Realm adalah sebagian dari Light Realm yang sudah diubah oleh Primordial One agar bisa ditempati oleh manusia. <br>
 
+## Jenis Realm Utama
 ### Light Realm
-**Light Realm** atau dalam nama lain disebut sebagai **Elemental Realm** atau **Vishap Realm** adalah salah satu dari realm utama yang ada di Teyvat. Realm ini dialiri oleh energi elemental dan dihuni oleh para [[Vishap]], dan merupakan tempat lahir dari Vishap. Realm ini dialiri oleh element yang disebut sebagai [[Element#Primordial Element\|Primordial Element]]. Primordial Element adalah elemen purba yang memiliki karakteristik murni dan bersifat "rampaging", sehingga sangat tidak aman bagi manusia.[^1]<br>
-
-Realm ini dulunya diduduki oleh [[Seven Sovereign]] sebagai penguasa dari Realm dan element yang ada di Teyvat. Posisinya sendiri berlawanan dengan Void Realm secara diametris. Ketika Primordial One datang ke Teyvat, Light realm diduduki oleh manusia dan Primordial One menciptakan realm baru bernama Human Realm untuk ditinggali manusia.[^2]<br>
+- **Light Realm** atau dalam nama lain disebut sebagai **Elemental Realm** atau **Vishap Realm** adalah salah satu dari realm utama yang ada di Teyvat. <br>
+- Realm ini dialiri oleh energi elemental dan dihuni oleh para [[Vishap]], dan merupakan tempat lahir dari Vishap. <br>
+- Realm ini dialiri oleh element yang disebut sebagai [[Element#Primordial Element\|Primordial Element]]. Primordial Element adalah elemen purba yang memiliki karakteristik murni dan bersifat "rampaging", sehingga sangat tidak aman bagi manusia.[^1]<br>
+- Realm ini dulunya diduduki oleh [[Seven Sovereign]] sebagai penguasa dari Realm dan element yang ada di Teyvat.<br>
+- Posisinya sendiri berlawanan dengan Void Realm secara diametris. Ketika Primordial One datang ke Teyvat, Light realm diduduki oleh manusia dan Primordial One menciptakan realm baru bernama Human Realm untuk ditinggali manusia.[^2]<br>
 
 ### Human Realm
-**Human Realm** adalah realm yang diciptakan oleh Primordial One setelah mengalahkan Seven Sovereign dan mendapatkan hak untuk mengatur dunia.[^2] Primordial One mengubah alam yang ada pada Light Realm agar menjadi cocok untuk ditinggali bagi umat manusia.<br>
-
-Sangat berkemungkinan kalau Human Realm berada pada posisi yang sama dengan Light Realm atau setidaknya menggunakan Light Realm sebagai dasarnya:<br>
-- Disebutkan dalam Loading Screen bahwa Light Realm sudah "ditaklukkan oleh umat manusia"[^2]<br>
-- Sangacorallia menghancurkan energi elemental yang ada di Light Realm menjadi energi elemental yang bisa cocok oleh manusia.[^3] Sedangkan Bathysmal Vishap masih bisa tumbuh menggunakan coral [[Orobashi]] meskipun ada penolakan di awal dikarenakan Orobashi berasal dari Human Realm. Hal ini mengindikasikan kalau kedua realm tidak begitu berbeda. Sedangkan kekuatan dari Void Realm sudah pernah ditunjukkan bersifat menghancurkan atau koruptif terhadap makhluk dari dua realm itu.<br>
+- **Human Realm** adalah realm yang diciptakan oleh Primordial One setelah mengalahkan Seven Sovereign dan mendapatkan hak untuk mengatur dunia.[^2] Primordial One mengubah alam yang ada pada Light Realm agar menjadi cocok untuk ditinggali bagi umat manusia.<br>
+- Sangat berkemungkinan kalau Human Realm berada pada posisi yang sama dengan Light Realm atau setidaknya menggunakan Light Realm sebagai dasarnya:<br>
+	- Disebutkan dalam Loading Screen bahwa Light Realm sudah "ditaklukkan oleh umat manusia"[^2]<br>
+	- Sangacorallia menghancurkan energi elemental yang ada di Light Realm menjadi energi elemental yang bisa cocok oleh manusia.[^3] Sedangkan Bathysmal Vishap masih bisa tumbuh menggunakan coral [[Orobashi]] meskipun ada penolakan di awal dikarenakan Orobashi berasal dari Human Realm. Hal ini mengindikasikan kalau kedua realm tidak begitu berbeda. Sedangkan kekuatan dari Void Realm sudah pernah ditunjukkan bersifat menghancurkan atau koruptif terhadap makhluk dari dua realm itu.<br>
 
 Pada dasarnya, makhluk yang ada di Human Realm maupun di Light Realm akan saling tidak cocok karena perbedaan energi yang mengalir dalam dua Realm tersebut. Akan tetapi hal itu bisa dimodifikasi agar keduanya saling cocok:
 - Orang-orang di [[Enkanomiya]] bereksperimen pada Vishap dan berhasil menjadikan Vishap agar dapat menerima [[Bloodbranch Coral]] milik Orobashi.[^4]<br>
